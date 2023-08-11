@@ -7,7 +7,7 @@
 - <b>Windows</b>
   - [Active Directly Home lab]( https://github.com/akhkusu/ActiveDirectlyLab/blob/main/README.md)
  
-- https://github.com/akhkusu/ActiveDirectlyLab/blob/main/README.md
+
 
 <h2>🧾 Certifications</h2>
 
