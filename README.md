@@ -1,8 +1,11 @@
 <h1>Hi, I'm Aki!<h1>
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨‍💻 Personal Projects:</h2>
 
-- <b>Implementation of Cryptographic tools with Python</b>
-  - [RSA in Python](https://github.com/akhkusu/RSA-with-python)
+- <b>Cryptography</b>
+  - [Implementation of RSA in Python](https://github.com/akhkusu/RSA-with-python)
+ 
+- <b>Others</b>
+  -[Telegram chatbot using OpenAI Davince API](https://github.com/akhkusu/Akigpt)
  
  
 
