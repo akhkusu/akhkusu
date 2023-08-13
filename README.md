@@ -4,7 +4,7 @@
 - <b>Cryptography</b>
   - [Implementation of RSA in Python](https://github.com/akhkusu/RSA-with-python)
  
-- <b>Others</b>
+- <b>Other Python Projects</b>
   - [Telegram chatbot using OpenAI Davince API](https://github.com/akhkusu/Akigpt)
  
  
