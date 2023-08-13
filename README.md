@@ -4,8 +4,6 @@
 - <b>Implementation of Cryptographic tools with Python</b>
   - [RSA in Python](https://github.com/akhkusu/RSA-with-python)
  
-- <b>Windows</b>
-  - [Active Directly Home lab]( https://github.com/akhkusu/ActiveDirectlyLab/blob/main/README.md)
  
 
 
