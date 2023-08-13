@@ -1,4 +1,4 @@
-<h1>Hi, I'm Aki!<h1>
+<h1>Hi, I'm Akiha!<h1>
 <h2>👨‍💻 Personal Projects:</h2>
 
 - <b>Cryptography</b>
