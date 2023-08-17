@@ -3,7 +3,10 @@
 
 - <b>Cryptography</b>
   - [Implementation of RSA in Python](https://github.com/akhkusu/RSA-with-python)
- 
+
+- <b>Windows</b>
+  - [Active Directly Configuration](https://github.com/akhkusu/Active-Directly-Configuration-Lab)
+  
 - <b>Python Exploration</b>
   - [Telegram chatbot using OpenAI Davince API](https://github.com/akhkusu/Akigpt)
  
