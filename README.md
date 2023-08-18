@@ -2,7 +2,7 @@
 <h2>👨‍💻 Personal Projects:</h2>
 
 - <b>Cryptography</b>
-  - [Implementation of RSA in Python](https://github.com/akhkusu/RSA-with-python)
+  - [Implementation of RSA with Python](https://github.com/akhkusu/RSA-with-python)
 
 - <b>Windows</b>
   - [Active Directly Configuration](https://github.com/akhkusu/Active-Directly-Configuration-Lab)
