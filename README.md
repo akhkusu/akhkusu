@@ -8,6 +8,7 @@
  
 - <b>Cybersecurity</b>
   - [SIEM with Microsoft Sentienl](https://github.com/akhkusu/SIEM-with-Microsoft-Sentinel)
+  - [Vulnerability Management with OpenVAS](https://github.com/akhkusu/Vulnerability-Management-with-OpenVAS)
   
 
 - <b>Windows</b>
