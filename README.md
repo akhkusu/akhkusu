@@ -12,7 +12,7 @@
   - [File Integrity Monitor with PowerShell](https://github.com/akhkusu/File_Integrity_Monitor/tree/main)
   
 
-- <bActive Directly</b>
+- <b>Active Directly</b>
   - [Active Directly Configuration](https://github.com/akhkusu/Active-Directly-Configuration-Lab)
   
 - <b>Python Exploration</b>
