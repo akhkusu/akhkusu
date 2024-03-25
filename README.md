@@ -19,6 +19,12 @@
   - [Telegram chatbot using OpenAI Davince API](https://github.com/akhkusu/Akigpt)
   - [Mushroom Edibility Predictor(Machine Learning)](https://github.com/akhkusu/Mushroom-Edibility-Predictor-MEP-)
 
+
+ 
+- <b>Java practice</b>
+  - [Telegram chatbot using OpenAI Davince API](https://github.com/akhkusu/Akigpt)
+  - [Mushroom Edibility Predictor(Machine Learning)](https://github.com/akhkusu/Mushroom-Edibility-Predictor-MEP-)
+
  
  
 
