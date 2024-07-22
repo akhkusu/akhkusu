@@ -10,6 +10,7 @@
   - [SIEM with Microsoft Sentienl](https://github.com/akhkusu/SIEM-with-Microsoft-Sentinel)
   - [Vulnerability Management with OpenVAS](https://github.com/akhkusu/Vulnerability-Management-with-OpenVAS)
   - [File Integrity Monitor with PowerShell](https://github.com/akhkusu/File_Integrity_Monitor/tree/main)
+  - [Metasploit Home Lab](https://github.com/akhkusu/Metasploit-Home-Lab)
   
 
 - <b>Active Directly</b>
