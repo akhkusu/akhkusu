@@ -11,6 +11,7 @@
   - [Vulnerability Management with OpenVAS](https://github.com/akhkusu/Vulnerability-Management-with-OpenVAS)
   - [File Integrity Monitor with PowerShell](https://github.com/akhkusu/File_Integrity_Monitor/tree/main)
   - [Metasploit Home Lab](https://github.com/akhkusu/Metasploit-Home-Lab)
+  - [Command and Control Operations with Tuoni.io on AWS](https://github.com/akhkusu/Tuoni.io-Lab-on-AWS)
   
 
 - <b>Active Directly</b>
