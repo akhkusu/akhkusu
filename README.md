@@ -9,10 +9,10 @@
 - [**Vulnerability Management with OpenVAS**](https://github.com/akhkusu/Vulnerability-Management-with-OpenVAS) – Automated vulnerability scanning and remediation.
 - [**File Integrity Monitor**](https://github.com/akhkusu/File_Integrity_Monitor/tree/main) – Real-time monitoring tool built with PowerShell.
 - [**Metasploit Home Lab**](https://github.com/akhkusu/Metasploit-Home-Lab) – Controlled environment for penetration testing.
-- [**C2 Operations with Tuoni.io on AWS**](https://github.com/akhkusu/Tuoni.io-Lab-on-AWS) – Command and Control operations hosted on AWS.
+- [**C2 Operations with Tuoni.io on AWS**](https://github.com/akhkusu/Tuoni.io-Lab-on-AWS) – Tuoni C2 setup on AWS.
 
 ### DNN Security
-- [**MTBT: Multi-Target Bit Trojan Attack**](https://github.com/akhkusu/MTBT) – Research on targeted weight-flip attacks in deep neural networks.
+- [**MTBT: Multi-Target Bit Trojan Attack**](https://github.com/akhkusu/MTBT) – Multi-Target Bit Trojan Attack for Quantized Neural Networks
 
 ### Active Directory
 - [**Active Directory Configuration Lab**](https://github.com/akhkusu/Active-Directly-Configuration-Lab) – Setup and management of Active Directory Domain Services.
