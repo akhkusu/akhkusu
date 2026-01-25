@@ -1,5 +1,4 @@
-<h1>Hi, I'm Akiha!<h1>
-<h2>👨‍💻 Personal Projects:</h2>
+<h2>Personal Projects:</h2>
 
 - <b>Cryptography</b>
   - [RSA with Python](https://github.com/akhkusu/RSA-with-python)
@@ -12,6 +11,9 @@
   - [File Integrity Monitor with PowerShell](https://github.com/akhkusu/File_Integrity_Monitor/tree/main)
   - [Metasploit Home Lab](https://github.com/akhkusu/Metasploit-Home-Lab)
   - [Command and Control Operations with Tuoni.io on AWS](https://github.com/akhkusu/Tuoni.io-Lab-on-AWS)
+ 
+- <b>DNN security<b>
+  - [MTBT: Multi-Target Bit Trojan Attack](https://github.com/akhkusu/MTBT)
   
 
 - <b>Active Directly</b>
@@ -34,7 +36,7 @@
 
 - [CompTIA CySA+](https://www.credly.com/earner/earned/badge/a8c4830f-fd53-451f-abdc-5f9e04b6a0ce)
 
-<h2> 🤳 Connect with me:</h2>
+<h2>  Connect with me:</h2>
 
 [<img align="left" alt="aki | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
