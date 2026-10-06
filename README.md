@@ -2,7 +2,7 @@
 
 
 ### AI Agent Security
-- [**Agent-Hound**](https://github.com/Agent-Hound) – OpenGraph collector for AI agent environments.
+- [**Agent-Hound**](https://github.com/akhkusu/Agent-Hound) – OpenGraph collector for AI agent environments.
 
 ### Cryptography
 - [**RSA with Python**](https://github.com/akhkusu/RSA-with-python) – Implementation of RSA encryption and decryption.
