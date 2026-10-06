@@ -1,10 +1,14 @@
 ## Personal Projects
 
+
+### AI Agent Security
+- [**Agent-Hound**](https://github.com/Agent-Hound) – OpenGraph collector for AI agent environments.
+
 ### Cryptography
 - [**RSA with Python**](https://github.com/akhkusu/RSA-with-python) – Implementation of RSA encryption and decryption.
 - [**Diffie-Hellman Key Exchange**](https://github.com/akhkusu/Diffie-Hellman-Key-Exchange) – Secure key exchange simulation.
 
-### Cybersecurity
+### Cybersecurity Home Lab
 - [**SIEM with Microsoft Sentinel**](https://github.com/akhkusu/SIEM-with-Microsoft-Sentinel) – Security Information and Event Management lab.
 - [**Vulnerability Management with OpenVAS**](https://github.com/akhkusu/Vulnerability-Management-with-OpenVAS) – Automated vulnerability scanning and remediation.
 - [**File Integrity Monitor**](https://github.com/akhkusu/File_Integrity_Monitor/tree/main) – Real-time monitoring tool built with PowerShell.
